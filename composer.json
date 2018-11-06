@@ -1,0 +1,12 @@
+{
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "socket\\": "src/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4.1"
+  }
+}
